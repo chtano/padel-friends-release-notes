@@ -3,16 +3,17 @@
 ## Version 1.3.0
 
 ### Nya funktioner
-- Förbättrad betalningssida med bättre synlighet för Swish-knappen på Android
-- Automatisk växling mellan test- och produktion-miljö baserat på Xcode-schema
+- Specifik kryptering av mobilnr och emailadress i databasen
 
 ### Förbättringar
-- Fixat problem med dubbelinitiering av Firebase på iOS
-- Förbättrad layout för betalningssidan på Android
-- Bättre hantering av email-verifiering för konsekvent beteende på Android och iOS
+- Tagit bort namnvisningen av alla inbjudna vid publika inbjudningar
+- Det hade skapat problem om många blev inbjudna
+- Nu visas endast antal inbjudna för publika inbjudningar
+- Vid inbjudna av vänner visas fortfarande namnen
+
 
 ### Tekniska förbättringar
-- Automatiserad hantering av GoogleService-Info.plist för olika miljöer
+- Automatiserad hantering av produktions- och testmiljöer
 - Förbättrad felhantering vid Firebase-initiering
 
 ---
@@ -20,57 +21,8 @@
 ## Version 1.2.1
 
 ### Nya funktioner
-- Feedback-funktion för användare att skicka synpunkter och buggrapporter
-- Förbättrad hantering av krypterade användardata
+- Första releasen av appen
 
-### Förbättringar
-- Fixat bugg där anteckningsfältet skrevs över vid matchredigering
-- Förbättrad hantering av superuser-åtkomst
-- Bättre felmeddelanden vid inloggning
-
----
-
-## Version 1.2.0
-
-### Nya funktioner
-- Kalenderintegration - lägg till matcher direkt i din kalender
-- Förslagssystem - föreslå nya orter, hallar eller banor
-- Admin-sida för att hantera förslag och feedback
-
-### Förbättringar
-- Prestandaoptimeringar för inbjudningar
-- Förbättrad visning av inbjudna användare för publika inbjudningar
-- Bättre layout för matchskapande och redigering på Android
-
----
-
-## Version 1.1.1
-
-### Förbättringar
-- Diverse buggfixar och förbättringar
-
----
-
-## Version 1.1.0
-
-### Nya funktioner
-- Push-notifikationer för matchrelaterade händelser
-- Swish-betalningsintegration
-- Förbättrad användarprofil
-
-### Förbättringar
-- Bättre hantering av matchstatus
-- Förbättrad användarupplevelse
-
----
-
-## Version 1.0.0
-
-### Initial release
-- Skapa och hantera padelmatcher
-- Bjud in vänner eller skicka publika inbjudningar
-- Hantera matchstatus och spelare
-- Profilhantering
 
 ---
 
