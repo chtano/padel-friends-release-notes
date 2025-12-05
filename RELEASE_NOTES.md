@@ -28,7 +28,7 @@
 
 ## Länkar
 
-- [App Store](https://apps.apple.com/app/padel-friends)
+- [App Store](https://apps.apple.com/se/app/padel-friends/id6753989873)
 - [Google Play](https://play.google.com/store/apps/details?id=se.chtano.padelfriends)
-- [Support](mailto:support@chtano.se)
+- [Support](https://chtano.se)
 
