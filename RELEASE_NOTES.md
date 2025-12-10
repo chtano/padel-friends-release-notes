@@ -1,5 +1,19 @@
 # Release Notes - Padel Friends
 
+## Version 1.3.1
+
+### Nya funktioner
+- Inga nya
+
+### Förbättringar
+- Löst ett uppdateringsproblem med inbjudningar som medförde att inte matchen uppdaterades direkt för arrangören när någon svarade
+- Lagt in mer information på mottagna och skickade inbjudningar
+- Vid inbjudan till vänner hade namnen försvunnit i samband med att de togs bort vid publika inbjudningar
+
+### Tekniska förbättringar
+- För befintliga användare kan mobilnumret visas som krypterat när man loggar in första gången. 
+- Åtgärd: Byt till det korrekta och spara så kommer det att fungera sen
+
 ## Version 1.3.0
 
 ### Nya funktioner
@@ -8,7 +22,7 @@
 ### Förbättringar
 - Tagit bort namnvisningen av alla inbjudna vid publika inbjudningar
 - Det hade skapat problem om många blev inbjudna
-- Nu visas endast antal inbjudna för publika inbjudningar
+- Endast antal inbjudna visas för publika inbjudningar
 - Vid inbjudna av vänner visas fortfarande namnen
 
 

@@ -14,3 +14,7 @@ Detta repository innehåller release notes för Padel Friends-appen.
 3. Pusha till GitHub
 4. GitHub Pages uppdateras automatiskt
 
+
+
+
+
